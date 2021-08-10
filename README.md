@@ -3,8 +3,11 @@ Notes on Solutions Architect
 
 ### Patterns:
 * Communications style as explanatory and curious (Phil Tetlock)
-* Understands technical trade-offs about customer requirements and technology capabilities
-* Invest time and money where fixed problems stay fixed in the future
+* Understands technical trade-offs about different possible approaches
+* Take time to understand details (who, what, when, where, how, why)
+* Invest time and money so that fixed problems stay fixed in the future
+* Customize solutions based on customer requirements and technology capabilities
+* Spend appropriate time exploring new technology solutions
 
 ### Anti-Patterns:
 * Communications style as confirmatory (Phil Tetlock)
